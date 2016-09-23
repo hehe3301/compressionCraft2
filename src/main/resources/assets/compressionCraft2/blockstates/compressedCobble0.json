@@ -1,8 +1,8 @@
 { 
-	variants{
-		normal[
+	"variants"{
+		"normal"[
 			{
-				model: block/compressedCobble0
+				"model": "block/compressedCobble0"
 			}] 
 	} 
 }
