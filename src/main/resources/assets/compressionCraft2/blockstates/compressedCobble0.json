@@ -1,7 +1,7 @@
 { 
 	"variants":{
 		"normal":{
-			"model": "block/compressedCobble0"
+			"model": "compressioncraft2:block/compressedCobble0"
 		} 
 	} 
 }
