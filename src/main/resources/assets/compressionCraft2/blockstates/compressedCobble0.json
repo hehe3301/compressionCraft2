@@ -1,5 +1,5 @@
 { 
-	"variants"{
-		"normal"[{"model": "block/compressedCobble0"}] 
+	"variants":{
+		"normal":[{"model": "block/compressedCobble0"}] 
 	} 
 }
