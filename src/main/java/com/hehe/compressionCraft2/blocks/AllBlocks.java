@@ -14,24 +14,24 @@ public class AllBlocks {
 		System.out.println("CompressionCraft2 initializing blocks!");
 		ArrayList<Block> blockList =new ArrayList<Block>();
 		
-		for(int i=0; i<8; i++){//Creates Compressed cobble
+		//for(int i=0; i<8; i++){//Creates Compressed cobble
 			Block block = new Block(Material.ROCK);
 			block.setHardness(1);
-			block.setResistance(9*i);
+			block.setResistance(9);
 			block.setLightLevel(0);
 			//block.setLightOpacity(i);
-			block.setUnlocalizedName("compressedCobble"+i);
+			block.setUnlocalizedName("compressedCobble0");
 			//block.setCreativeTab(null);
 			blockList.add(block);
-		}
+		//}
 		
 		
 		
-		for(Block block: blockList){//registers the blocklist
+		//for(Block block: blockList){//registers the blocklist
 			
 			GameRegistry.register(block.setRegistryName(block.getUnlocalizedName()));
 			GameRegistry.register(new ItemBlock(block).setRegistryName(block.getRegistryName()));
-		}
+		//}
 		
 	}
 }
