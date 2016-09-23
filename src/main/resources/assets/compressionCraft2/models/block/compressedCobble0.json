@@ -1,6 +1,6 @@
 {
  	"parent": "block/cube_all",
  	"textures": {
- 		"all": "compressioncraft2:compressedCobble0"
+ 		"all": "compressioncraft2:blocks/compressedCobble0"
  	}
 }
