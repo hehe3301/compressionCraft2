@@ -1,0 +1,16 @@
+[
+{
+  "modid": "compressioncraft2",
+  "name": "Compression Craft 2",
+  "description": "This mod adds compressed blocks, that it, what more do you want it's in the name!",
+  "version": "2.0.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Hehe"],
+  "credits": "Thanks to Asie, Maxpowa, and all my friends in #WAMM for all their help!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
