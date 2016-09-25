@@ -1,0 +1,6 @@
+{
+ 	"parent": "block/cube_all",
+ 	"textures": {
+ 		"all": "compression_craft_2:blocks/compressed_cobble0"
+ 	}
+}

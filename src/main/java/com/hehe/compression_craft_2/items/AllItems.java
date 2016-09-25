@@ -1,4 +1,4 @@
-package com.hehe.compressionCraft2.items;
+package com.hehe.compression_craft_2.items;
 
 public class AllItems {
 
