@@ -21,8 +21,8 @@ plugins {
 }
 */
 version = "2.0"
-group= "com.hehe.compressionCraft2" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "compressionCraft2"
+group= "com.hehe.compression_craft_2" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = "compression_craft_2"
 
 minecraft {
     version = "1.10.2-12.18.1.2011"
